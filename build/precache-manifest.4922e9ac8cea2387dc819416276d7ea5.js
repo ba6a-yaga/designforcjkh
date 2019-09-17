@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb3dfbc1ef03aab0c6d9128fe6a1db61",
+    "revision": "83929dffc605cf927102e821d4889e97",
     "url": "/designforcjkh/index.html"
   },
   {
-    "revision": "c5ffb81d290079af6d07",
+    "revision": "c22859b3a2888222b250",
     "url": "/designforcjkh/static/css/main.74743332.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/designforcjkh/static/js/2.b7b101fb.chunk.js"
   },
   {
-    "revision": "c5ffb81d290079af6d07",
-    "url": "/designforcjkh/static/js/main.116ed40c.chunk.js"
+    "revision": "c22859b3a2888222b250",
+    "url": "/designforcjkh/static/js/main.bbb2bf99.chunk.js"
   },
   {
-    "revision": "d84796056283f355ec35",
-    "url": "/designforcjkh/static/js/runtime~main.237b8957.js"
+    "revision": "dd788ddecf7c99be2f33",
+    "url": "/designforcjkh/static/js/runtime~main.fcdfc550.js"
   },
   {
     "revision": "6af61e1d27f6730adefe6362e1d9693d",
