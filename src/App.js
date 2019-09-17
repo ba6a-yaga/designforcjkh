@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="main-background">
-          <img src={bg} alt="back" />
+          <img src={bg} />
         </div>
       </header>
     </div>
